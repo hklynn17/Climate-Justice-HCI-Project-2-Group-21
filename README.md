@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Visualization from Climate Change: Earth Surface Temperature Data
+### Hannah Lynn, Bridgette Kim, Ying Zhang 
 
 You can use the [editor on GitHub](https://github.com/hklynn17/HCI_Project_2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
