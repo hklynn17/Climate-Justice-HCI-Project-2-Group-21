@@ -1,7 +1,6 @@
 # Climate Justice 
 ## Hannah Lynn, Bridgette Kim, Ying Zhang 
 
-<iframe src="https://www.kaggle.com/embed/dhruvnareshborda/analysis-of-global-warming/notebook?cellIds=9&kernelSessionId=80329639" height="300" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Analysis of global warming"></iframe>
 
 
 Climate change is a global issue that encapsulates everywhere from extreme weather catastrophes to rising sea levels, but digging deeper into the social impacts of climate change, there lies climate justice. 
