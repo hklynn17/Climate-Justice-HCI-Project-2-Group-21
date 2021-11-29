@@ -3,6 +3,8 @@
 
 
 
+Climate change is a global issue that encapsulates everywhere from extreme weather catastrophes to rising sea levels, but digging deeper into the social impacts of climate change, there lies climate justice. 
+
 ## What is Climate Justice
 
 
