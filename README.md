@@ -1,5 +1,5 @@
-## Climate Justice 
-### Hannah Lynn, Bridgette Kim, Ying Zhang 
+# Climate Justice 
+## Hannah Lynn, Bridgette Kim, Ying Zhang 
 
 
 
