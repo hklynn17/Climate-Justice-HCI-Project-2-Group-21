@@ -3,7 +3,7 @@
 
 
 
-#### What is Climate Justice
+## What is Climate Justice
 
 
 Climate justice exceeds environmental and sustainability efforts. Climate justice is a term that stresses how climate change has differing social, economic, public health, and other adverse impacts on underprivileged populations. 
@@ -12,7 +12,7 @@ Climate justice is a civil rights movement. As stated by UN Secretary-General An
 
 
 
-#### Geographic Disparities
+## Geographic Disparities
 
 Climate change affects everyone, but its impacts are felt most strongly by minority groups such as low-income communities, people of color, people with disabilities, and indigenous groups. 
 
@@ -41,7 +41,7 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
 </script>
   
   
-## Takeaways 
+### Takeaways 
 37.27% of households affected by Hurricane Harvey fall under 20k-40k annual salary, while 24.36% of households affected fall under 40k-60k annual salary. That means over half of the households affected by the disaster belonged to the lowest two income groups. Whereas, the percent of affected income groups 60k-80k, 80k-100k, and >120k summed to only 27%. Similarly, 40.23% of the affected population identified as Hispanic, and 28.47% of the affected population identified as Black. Data shows that the populations hit the hardest aligned closely with low-income, people of color groups. 
 
 ### Berlin City Case - Environmental Justice
@@ -51,14 +51,14 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
 Environmental justice in the city of Berlin focuses on how the subject can be measured. The first set of data focuses on the “objective parameters for the 447 planning areas of Berlin” (Bre, 2020), air pollution, and social status. The air pollution was measured using the annual average of NO2 and PM2.5 (fine particle matter, air pollutant), and the social status was studied using the set of six status and dynamic indicators taken from the field of social reporting in the overall Social Urban Development Monitoring 2013. This data was taken from the CDP survey, and KPIs on a city scale were identified. Therefore, these Berlin city datasets show how social and environmental issues are linked and can be applied to future work in studying environmental justice trends on different scales.  
  
   
-#### Closing Thoughts
+## Closing Thoughts
   
  
 Overall, climate justice is a movement that aims to help everyone as climate issues expose our collective society’s vulnerabilities, even if certain populations are hit harder. And as a society, we need to stay proactive and remain vigilant on climate change, especially its impacts on minority groups such as low-income communities, people of color, people with disabilities, and indigenous groups. Hurricane Harvey, a disaster just four years ago, was low-income and BIPOC, with over 50% of the population affected. Beyond the U.S, in Berlin, there is significant correlation between each of the city’s planning area’s social class and air pollution. Incorporating demographic, real estate, financial data and more enables us to be socially aware of these non-coincidental trends. Data reveals specific areas of groups that are or could be disproportionately impacted by global environmental factors. However, data alone cannot solve this problem. Data is an important step but research studies and community engagement are crucial to taking a stance on climate justice. Data provides insights but it cannot act on these insights; that starts with Us. 
   
   
  
-### Works Cited
+## Works Cited
 Dontsova, Evgeniya. (2018). Impact of Hurricane Harvey on the city of Houston. Kaggle. Retrieved November 26, 2021, from https://www.kaggle.com/evgeniya1/impact-of-hurricane-harvey-on-the-city-of-houston/notebook. 
   
   
