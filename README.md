@@ -27,7 +27,7 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
 
 
 
-<iframe title="Impact of Hurricane Harvey on Houston based on Income" aria-label="chart" id="datawrapper-chart-1mbQK" src="https://datawrapper.dwcdn.net/1mbQK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="274"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Impact of Hurricane Harvey on Houston Based on Income" aria-label="chart" id="datawrapper-chart-1mbQK" src="https://datawrapper.dwcdn.net/1mbQK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="274"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
   
   
