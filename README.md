@@ -37,15 +37,12 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
   
   
   
-<iframe title="Impact of Hurricane Harvey on Houston Based on Race" aria-label="chart" id="datawrapper-chart-CjIFP" src="https://datawrapper.dwcdn.net/CjIFP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1000"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Impact of Hurricane Harvey on Houston Based on Race" aria-label="chart" id="datawrapper-chart-CjIFP" src="https://datawrapper.dwcdn.net/CjIFP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
   
   
 Takeaways 
-- 37.27% of households affected fall under 20k-40k annual salary 
-- 24.36% of households affected fall under 40k-60k annual salary
-- 40.23% of the affected population identifies as Hispanic
-- 28.47% of the affected population identifies as Black 
+37.27% of households affected by Hurricane Harvey fall under 20k-40k annual salary, while 24.36% of households affected fall under 40k-60k annual salary. That means over half of the households affected by the disaster belonged to the lowest two income groups. Whereas, the percent of affected income groups 60k-80k, 80k-100k, and >120k summed to only 27%. Similarly, 40.23% of the affected population identified as Hispanic, and 28.47% of the affected population identified as Black. Data shows that the populations hit the hardest aligned closely with low-income, people of color groups. 
 
   
  
