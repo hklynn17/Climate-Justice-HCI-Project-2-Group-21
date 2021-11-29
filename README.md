@@ -49,4 +49,34 @@ Takeaways
 
   
  
+  
+### Closing Thoughts
+  
+ 
+Overall, climate justice is a movement that aims to help everyone as climate issues expose our collective society’s vulnerabilities, even if certain populations are hit harder. And as a society, we need to stay proactive and remain vigilant on climate change, especially its impacts on minority groups such as low-income communities, people of color, people with disabilities, and indigenous groups. Hurricane Harvey, a disaster just four years ago, was low-income and BIPOC, with over 50% of the population affected.
+  
+  
+ 
+### Works Cited
+Dontsova, Evgeniya. (2018). Impact of Hurricane Harvey on the city of Houston. Kaggle. Retrieved November 26, 2021, from https://www.kaggle.com/evgeniya1/impact-of-hurricane-harvey-on-the-city-of-houston/notebook. 
+  
+  
+Enochluk. (2020, August 9). An exploration in climate justice. Kaggle. Retrieved November 26, 2021, from https://www.kaggle.com/enochluk/an-exploration-in-climate-justice/notebook. 
+  
+  
+Fecht, S. (2021, August 20). A new dataset could aid Climate Justice Research. Phys.org. Retrieved November 28, 2021, from https://phys.org/news/2021-08-dataset-aid-climate-justice.html. 
+  
+  
+Servick, K. (2018, February 27). More than 12 years after Hurricane Katrina, scientists are learning what makes some survivors more resilient than others. Science. Retrieved November 28, 2021, from https://www.science.org/content/article/more-12-years-after-hurricane-katrina-scientists-are-learning-what-makes-some-survivors. 
+  
+  
+Simmons, D. (2020, October 23). What is 'Climate justice'? " Yale climate connections. Yale Climate Connections. Retrieved November 28, 2021, from https://yaleclimateconnections.org/2020/07/what-is-climate-justice/. 
+  
+  
+Torrent Tucker, D. (2021, July 12). Sea-level rise may worsen existing Bay Area inequities. Phys.org. Retrieved November 28, 2021, from https://phys.org/news/2021-07-sea-level-worsen-bay-area-inequities.html. 
+  
+  
+United Nations. (2019, May 13). Climate justice – united nations sustainable development. United Nations. Retrieved November 28, 2021, from https://www.un.org/sustainabledevelopment/blog/2019/05/climate-justice/. 
+
+
 
