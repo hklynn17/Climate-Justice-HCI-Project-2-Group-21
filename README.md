@@ -58,6 +58,12 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
   
 <!-- insert visualization here -->  
   
+  
+ <iframe title="Berlin Air Pollution (PM2.5 + NO2)" aria-label="Map" id="datawrapper-chart-uGPsH" src="https://datawrapper.dwcdn.net/uGPsH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="582"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+  
+  
+  
 Environmental justice in the city of Berlin focuses on how the subject can be measured. The first set of data focuses on the “objective parameters for the 447 planning areas of Berlin” (Bre, 2020), air pollution, and social status. The air pollution was measured using the annual average of NO2 and PM2.5 (fine particle matter, air pollutant), and the social status was studied using the set of six status and dynamic indicators taken from the field of social reporting in the overall Social Urban Development Monitoring 2013. This data was taken from the CDP survey, and KPIs on a city scale were identified. Therefore, these Berlin city datasets show how social and environmental issues are linked and can be applied to future work in studying environmental justice trends on different scales.
  
   
