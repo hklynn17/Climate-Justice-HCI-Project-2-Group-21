@@ -41,10 +41,10 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
 </script>
   
   
-Takeaways 
+## Takeaways 
 37.27% of households affected by Hurricane Harvey fall under 20k-40k annual salary, while 24.36% of households affected fall under 40k-60k annual salary. That means over half of the households affected by the disaster belonged to the lowest two income groups. Whereas, the percent of affected income groups 60k-80k, 80k-100k, and >120k summed to only 27%. Similarly, 40.23% of the affected population identified as Hispanic, and 28.47% of the affected population identified as Black. Data shows that the populations hit the hardest aligned closely with low-income, people of color groups. 
 
-###Berlin City Case - Environmental Justice
+### Berlin City Case - Environmental Justice
   
 <!-- insert visualization here -->  
   
