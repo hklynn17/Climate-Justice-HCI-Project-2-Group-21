@@ -10,7 +10,9 @@ Over the past 250 years, there has been an increase in the world average tempera
   
 Climate change is a global issue that encapsulates everywhere from extreme weather catastrophes to rising sea levels, but digging deeper into the social impacts of climate change, there lies climate justice. 
   
- <p></p>
+ <p>
+  
+  </p>
   
 ## What is Climate Justice
 
@@ -35,6 +37,7 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
 
  <p>
   
+   
   </p>
   
 Here is a breakdown of the effects of Hurricane Harvey based on different income brackets. 
@@ -48,7 +51,9 @@ The data above illustrates that 37.27% of households affected by Hurricane Harve
   
   <p>
   
+    
   </p>
+  
 Here is a breakdown of the effects of Hurricane Harvey based on race. 
   
 <iframe title="Impact of Hurricane Harvey on Houston Based on Race" aria-label="chart" id="datawrapper-chart-CjIFP" src="https://datawrapper.dwcdn.net/CjIFP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -59,8 +64,11 @@ Similar to the discrepencies shown above, 40.23% of the affected population iden
 
 ### Berlin City Case - Environmental Justice
   
-<!-- insert visualization here -->  
+    <p>
   
+    
+  </p>
+<!-- insert visualization here -->  
   
  <iframe title="Berlin Air Pollution (PM2.5 + NO2)" aria-label="Map" id="datawrapper-chart-uGPsH" src="https://datawrapper.dwcdn.net/uGPsH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="582"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
@@ -69,10 +77,18 @@ Similar to the discrepencies shown above, 40.23% of the affected population iden
   
 Environmental justice in the city of Berlin focuses on how the subject can be measured. The first set of data focuses on the “objective parameters for the 447 planning areas of Berlin” (Bre, 2020), air pollution, and social status. The air pollution was measured using the annual average of NO<sub>2</sub> and PM<sub>2.5</sub> (fine particle matter, air pollutant), and the social status was studied using the set of six status and dynamic indicators taken from the field of social reporting in the overall Social Urban Development Monitoring 2013. This data was taken from the CDP survey, and KPIs on a city scale were identified. Therefore, these Berlin city datasets show how social and environmental issues are linked and can be applied to future work in studying environmental justice trends on different scales.
   
-
+  <p>
+  
+    
+  </p>
+  
 <iframe title="Average Statistics Based on Social Status" aria-label="Grouped Bars" id="datawrapper-chart-VBrBs" src="https://datawrapper.dwcdn.net/VBrBs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="644"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
- 
+  
+   <p>
+  
+    
+  </p>
   
 ## Potential Improvements 
   
