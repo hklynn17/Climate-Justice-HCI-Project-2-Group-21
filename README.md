@@ -10,6 +10,8 @@ Over the past 250 years, there has been an increase in the world average tempera
   
 Climate change is a global issue that encapsulates everywhere from extreme weather catastrophes to rising sea levels, but digging deeper into the social impacts of climate change, there lies climate justice. 
   
+ <p></p>
+  
 ## What is Climate Justice
 
 
