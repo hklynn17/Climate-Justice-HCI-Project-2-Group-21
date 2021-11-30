@@ -64,10 +64,7 @@ Similar to the discrepencies shown above, 40.23% of the affected population iden
 
 ### Berlin City Case - Environmental Justice
   
-    <p>
-  
-    
-  </p>
+<p></p>
 <!-- insert visualization here -->  
   
  <iframe title="Berlin Air Pollution (PM2.5 + NO2)" aria-label="Map" id="datawrapper-chart-uGPsH" src="https://datawrapper.dwcdn.net/uGPsH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="582"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
