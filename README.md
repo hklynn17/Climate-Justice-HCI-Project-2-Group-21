@@ -40,11 +40,22 @@ Hurricane Katrina is not a one-off occurrence. In recent years, Hurricane Harvey
    
   </p>
   
+  
+  
+  
+  
 Here is a breakdown of the effects of Hurricane Harvey based on different income brackets. 
 
 
+  
+  
+  
 <iframe title="Impact of Hurricane Harvey on Houston Based on Income" aria-label="chart" id="datawrapper-chart-1mbQK" src="https://datawrapper.dwcdn.net/1mbQK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="274"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+  
+  
+  
+  
   
   
 The data above illustrates that 37.27% of households affected by Hurricane Harvey fall under 20k-40k annual salary, while 24.36% of households affected fall under 40k-60k annual salary. That means over half of the households affected by the disaster belonged to the lowest two income groups. Whereas, the percent of affected income groups 60k-80k, 80k-100k, and >120k summed to only 27%.
@@ -56,8 +67,16 @@ The data above illustrates that 37.27% of households affected by Hurricane Harve
   
 Here is a breakdown of the effects of Hurricane Harvey based on race. 
   
+  
+  
+  
+  
 <iframe title="Impact of Hurricane Harvey on Houston Based on Race" aria-label="chart" id="datawrapper-chart-CjIFP" src="https://datawrapper.dwcdn.net/CjIFP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+  
+  
+  
+  
   
   
 Similar to the discrepencies shown above, 40.23% of the affected population identified as Hispanic, and 28.47% of the affected population identified as Black. Overall, Data shows that the populations hit the hardest aligned closely with low-income, people of color groups. 
@@ -67,8 +86,14 @@ Similar to the discrepencies shown above, 40.23% of the affected population iden
 <p></p>
 <!-- insert visualization here -->  
   
+  
+  
+  
  <iframe title="Berlin Air Pollution (PM2.5 + NO2)" aria-label="Map" id="datawrapper-chart-uGPsH" src="https://datawrapper.dwcdn.net/uGPsH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="582"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+  
+  
+  
   
   
   
