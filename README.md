@@ -1,5 +1,5 @@
 # Climate Justice 
-## Hannah Lynn, Bridgette Kim, Ying Zhang 
+### Bridgette Kim, Hannah Lynn, Ying Zhang 
 
 
 Over the past 250 years, there has been an increase in the world average temperature as shown in the graph below. This is attributed to climate change. 
@@ -50,7 +50,7 @@ Here is a breakdown of the effects of Hurricane Harvey based on race.
   
 Similar to the discrepencies shown above, 40.23% of the affected population identified as Hispanic, and 28.47% of the affected population identified as Black. Overall, Data shows that the populations hit the hardest aligned closely with low-income, people of color groups. 
 
-## Berlin City Case - Environmental Justice
+### Berlin City Case - Environmental Justice
   
 <!-- insert visualization here -->  
   
