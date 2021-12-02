@@ -97,7 +97,7 @@ Similar to the discrepencies shown above, 40.23% of the affected population iden
   
   
   
-Environmental justice in the city of Berlin focuses on how the subject can be measured. The first set of data focuses on the “objective parameters for the 447 planning areas of Berlin” (Bre, 2020), air pollution, and social status. The air pollution was measured using the annual average of NO<sub>2</sub> and PM<sub>2.5</sub> (fine particle matter, air pollutant), and the social status was studied using the set of six status and dynamic indicators taken from the field of social reporting in the overall Social Urban Development Monitoring 2013. This data was taken from the CDP survey, and KPIs on a city scale were identified. The interactive visualizations below display the datasets used in this study, with 1 being categorized as “very low” and 4 categorized as “high.”
+Environmental justice is not only important in the U.S., but it is a topic discussed everywhere. In the Berlin City Case, environmental justice was represented by datasets focused on five main indicators - air pollution, social status, noise, supply of green areas, and bioclimatic stress, the “objective parameters for the 447 planning areas of Berlin” (Bre, 2020). The first set of data displayed in the map visualization below, focuses on air pollution. The air pollution was measured using the annual average of NO<sub>2</sub> and PM<sub>2.5</sub> (fine particle matter, air pollutant), and the social status was studied using the set of six status and dynamic indicators taken from the field of social reporting in the overall Social Urban Development Monitoring 2013. This data was taken from the CDP survey, and KPIs on a city scale were identified. The interactive visualizations below display the datasets used in this study, with 1 being categorized as “very low” and 4 categorized as “high.”
   
   <p>
   
@@ -113,7 +113,7 @@ Environmental justice in the city of Berlin focuses on how the subject can be me
     
   </p>
 
-In comparing social status to the other environmental factors, the visualizations show that neighborhoods with higher social status have less air pollution and noise, more green areas, and reduced bioclimatic stress. Further, the air pollution and social status data displayed in the models, it was observed that in neighborhoods with low and very low social status less than 15% of them fell into the categories of having low or very low air pollution, while about 50% of high social status neighborhoods had low or ver low air pollution. Therefore, these Berlin city datasets show how social and environmental issues are linked and can be applied to future work in studying environmental justice trends on different scales.
+In comparing social status to the other environmental factors, the visualizations show that neighborhoods with higher social status have less air pollution and noise (health risks and harm caused by impact of disturbance), more green areas, and reduced bioclimatic stress. Further, the air pollution and social status data displayed in the models, it was observed that in neighborhoods with low and very low social status less than 15% of them fell into the categories of having low or very low air pollution, while about 50% of high social status neighborhoods had low or ver low air pollution. Therefore, these Berlin city datasets show how social and environmental issues are linked and can be applied to future work in studying environmental justice trends on different scales.
   
 ## Potential Improvements 
   
